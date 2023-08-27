@@ -1,0 +1,55 @@
+# **CODSOFT Intern Projects**
+## 1. **Artificial Intelligence Tasks:**
+   
+🔗https://github.com/syedawajihaali/
+
+### **Task 1: ChatBot With Rule-Based Responses**
+
+1.	**Objective:** Build a simple chatbot that responds to user inputs based on predefined rules. Use if-else statements or pattern matching techniques to identify user queries and provide appropriateresponses. This will give you a basic understanding of natura language processing and conversation flow.
+   
+2.	**Description:** Developed an interactive ChatBot that utilizes predefined rules and pattern recognition in Python to provide thoughtful replies to user questions and participate in discussions. By utilizing a custom dictionary and pattern matching techniques, the ChatBot is capable of delivering informed responses across a range of user inputs, spanning from humorous remarks to requests for information.
+   
+3.	**Key Features:**
+   
+    o	Rule-Based response system.
+
+    o	User input analysis using If-else statements.
+
+    o	Engages in enlightening and enjoyable dialogues.
+
+4.	**Execution:** Created a chatbot script featuring predetermined rules for generating responses based on various user inputs.
+   
+### **Task 2: Movie Recommendation System**
+
+1.	**Objective:** Create a simple recommendation system that suggests items to users based on their preferences. You can use techniques like collaborative filtering or content-based filtering to recommend movies, books, or products to users.
+   
+2.	**Description:** Built an interactive movie recommendation system employing TF-IDF vectorization and cosine similarity methods to propose films according to user preferences. The system processes movie titles and associated genres, transforming them into a numeric matrix. Subsequently, cosine similarity calculations are performed to provide users with similar movie suggestions.
+   
+3.	**Key Features:**
+   
+    o	TF-IDF vectorization to transform textual data.
+
+    o	Cosine similarity calculations for precise movie suggestions.
+  	
+    o	User-friendly interface for seamless input and output interactions.
+  	
+4.	**Execution:** Utilized the TfidfVectorizer and linear_kernel functions from the sklearn library to process and analyze movie data.
+   
+### **Task 3: Tic-Tac-Toe Game**
+
+1.	**Objective:** Implement an AI agent that plays the classic game of Tic-Tac-Toe against a human player. You can use algorithms like Minimax with or without Alpha-Beta Pruning to make the AI player unbeatable.This project will help you understand game theory and basic search algorithms.
+   
+2.	**Description:** Created an AI agent for the traditional game of Tic-Tac-Toe by implementing the Minimax algorithm, and optionally incorporating Alpha-Beta Pruning for improved performance. The AI player employs tactical moves to optimize its likelihood of victory or achieving a tie. This undertaking offers a deeper understanding of game theory, search algorithms, and the intricacies of decision-making.
+   
+3.	**Key Features:**
+    
+     o	An AI-driven adversary utilizing the Minimax algorithm.
+  	
+     o	Choice to implement Alpha-Beta Pruning for enhanced efficiency.
+   
+     o	Engaging gameplay experience featuring interactions with the AI opponent.
+  	
+4.	**Execution:** Incorporated the Minimax algorithm to facilitate AI decision-making and seamlessly integrated it into a simulated game of Tic-Tac-Toe.
+
+These projects collectively showcase adept programming skills and underscore the capability to develop operational and user-centric applications within the domain of artificial intelligence tasks. Each task's code is meticulously structured, harnessing libraries and inherent functionalities to achieve optimal results.
+   
