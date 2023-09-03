@@ -1,7 +1,7 @@
  # **CODSOFT Intern Projects**
 ## 1. **Artificial Intelligence Tasks:**
    
-🔗https://github.com/syedawajihaali/CODSOFT/tree/main/Artificial%20Intelligance%20Tasks
+🔗https://github.com/syedawajihaali/CODSOFT/tree/main/Artificial%20Intelligence%20Tasks
 
 ### **Task 1: ChatBot With Rule-Based Responses**
 
